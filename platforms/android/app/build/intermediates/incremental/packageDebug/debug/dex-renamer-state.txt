@@ -1,0 +1,4 @@
+#Tue Oct 02 10:37:20 BRT 2018
+base.0=C\:\\Users\\admin\\Desktop\\sorteio\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\admin\\Desktop\\sorteio\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
